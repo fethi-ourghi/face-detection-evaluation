@@ -3,7 +3,7 @@ Evaluation of different face detection algorithms existing in the literature usi
 # FDDB
 
 ## DSFD
-![alt text](https://github.com/fatehOurghi/face-detection-evaluation/imgs/Evaluation of DSFD on FDDB dataset.png)
+![alt text](https://github.com/fatehOurghi/face-detection-evaluation/imgs/Evaluation\ of\ DSFD\ on\ FDDB dataset.png)
 
 ## TinaFace
 ![alt text](https://github.com/fatehOurghi/face-detection-evaluation/imgs/Evaluation of TinaFace on FDDB dataset.png)
