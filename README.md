@@ -3,28 +3,28 @@ Evaluation of different face detection algorithms existing in the literature usi
 # FDDB
 
 ## DSFD
-![alt text](https://github.com/fatehOurghi/face-detection-evaluation/imgs/Evaluation\ of\ DSFD\ on\ FDDB dataset.png)
+![alt DSFD-FDDB](https://github.com/fatehOurghi/face-detection-evaluation/imgs/DSFD-FDDB.png)
 
 ## TinaFace
-![alt text](https://github.com/fatehOurghi/face-detection-evaluation/imgs/Evaluation of TinaFace on FDDB dataset.png)
+![alt TinaFace-FDDB](https://github.com/fatehOurghi/face-detection-evaluation/imgs/TinaFace-FDDB.png)
 
 ## FaceBoxes
-![alt text](https://github.com/fatehOurghi/face-detection-evaluation/imgs/Evaluation of FaceBoxes on FDDB dataset.png)
+![alt FaceBoxes-FDDB](https://github.com/fatehOurghi/face-detection-evaluation/imgs/FaceBoxes-FDDB.png)
 
 ## YOLOFace
-![alt text](https://github.com/fatehOurghi/face-detection-evaluation/imgs/Evaluation of YOLOFACE on FDDB dataset.png)
+![alt YOLOFace-FDDB](https://github.com/fatehOurghi/face-detection-evaluation/imgs/YOLOFace-FDDB.png)
 
 
 # PascalFace
 
 ## DSFD
-![alt text](https://github.com/fatehOurghi/face-detection-evaluation/imgs/Evaluation of DSFD on PascalFace dataset.png)
+![alt DSFD-PascalFace](https://github.com/fatehOurghi/face-detection-evaluation/imgs/DSFD-PascalFace.png)
 
 ## TinaFace
-![alt text](https://github.com/fatehOurghi/face-detection-evaluation/imgs/Evaluation of TinaFace on PascalFace dataset.png)
+![alt TinaFace-PascalFace](https://github.com/fatehOurghi/face-detection-evaluation/imgs/TinaFace-PascalFace.png)
 
 ## FaceBoxes
-![alt text](https://github.com/fatehOurghi/face-detection-evaluation/imgs/Evaluation of FaceBoxes on PascalFace dataset.png)
+![alt FaceBoxes-PascalFace](https://github.com/fatehOurghi/face-detection-evaluation/imgs/FaceBoxes-PascalFace.png)
 
 ## YOLOFace
-![alt text](https://github.com/fatehOurghi/face-detection-evaluation/imgs/Evaluation of YOLOFACE on PascalFace dataset.png)
+![alt YOLOFace-PascalFace](https://github.com/fatehOurghi/face-detection-evaluation/imgs/YOLOFace-PascalFace.png)
