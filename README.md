@@ -1,4 +1,4 @@
-# face-detection-evaluation
+# Face detection algorithms evaluation
 Evaluation of different face detection algorithms existing in the literature using different benchmarks
 # FDDB
 
